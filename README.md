@@ -6,8 +6,8 @@
 
 <br><br>
 
-## 16- [Data Mining]()  / [LLM Tabular Preprocessing with Dictionary Groups]() 
-### ***Dictionary-Based Feature Grouping [for]() LLM/AI Pipelines***
+## <p align="center"> 16- [Data Mining]()  / [LLM Tabular Preprocessing with Dictionary Groups]() 
+### <p align="center"> ***Dictionary-Based Feature Grouping [for]() LLM/AI Pipelines***
 
 
 
