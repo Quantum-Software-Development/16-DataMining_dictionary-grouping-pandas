@@ -22,7 +22,16 @@
 [**Semester:**]() 2nd Semester 2025  
 Professor:  [***Professor Doctor in Mathematics Daniel Rodrigues da Silva***](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
+
 <br><br>
+
+
+==================================
+Still Building ๋ ⭑🛸๋⭑
+=================================
+
+<br><br>
+
 
 #### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
